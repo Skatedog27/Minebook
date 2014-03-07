@@ -1,0 +1,7 @@
+#Navigate the different branches of this repo to access multiple versions of the plugin's code
+
+#The development branch:
+#This brach is used to store development files, that are unstable, or do not work to their full potential
+
+#The stable branch:
+#This branch holds stable files, that can be used and run on your server
